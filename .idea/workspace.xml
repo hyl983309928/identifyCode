@@ -2,6 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e171ea75-fc5f-452f-8ac2-ca088b971f87" name="默认的" comment="">
+<<<<<<< HEAD
+=======
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+>>>>>>> test
       <change beforePath="$PROJECT_DIR$/identify.vue" afterPath="$PROJECT_DIR$/identify.vue" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -20,7 +24,11 @@
         <entry file="file://$PROJECT_DIR$/identify.vue">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="253">
+<<<<<<< HEAD
               <caret line="65" column="59" lean-forward="false" selection-start-line="65" selection-start-column="59" selection-end-line="65" selection-end-column="59" />
+=======
+              <caret line="65" column="64" lean-forward="true" selection-start-line="65" selection-start-column="64" selection-end-line="65" selection-end-column="64" />
+>>>>>>> test
               <folding />
             </state>
           </provider>
@@ -146,12 +154,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1532413381831</updated>
-      <workItem from="1532413382975" duration="159000" />
+      <workItem from="1532413382975" duration="426000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="164000" />
+=======
+    <option name="totallyTimeSpent" value="426000" />
+>>>>>>> test
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -202,6 +214,7 @@
     <entry file="file://$PROJECT_DIR$/identify.vue">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="253">
+<<<<<<< HEAD
           <caret line="65" column="59" lean-forward="false" selection-start-line="65" selection-start-column="59" selection-end-line="65" selection-end-column="59" />
           <folding />
         </state>
@@ -211,6 +224,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
           <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+=======
+          <caret line="65" column="64" lean-forward="true" selection-start-line="65" selection-start-column="64" selection-end-line="65" selection-end-column="64" />
+>>>>>>> test
           <folding />
         </state>
       </provider>
