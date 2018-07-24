@@ -63,6 +63,8 @@ export default{
   methods: {
     // 生成一个随机数
     randomNum (min, max) {
+
+
       return Math.floor(Math.random() * (max - min) + min)
     },
     // 生成一个随机的颜色

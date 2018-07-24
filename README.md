@@ -1,9 +1,11 @@
 # identifyCode
 一个生成验证码的VUE组件
-使用方法示例
+# 使用方法示例
+
 <SIdentify @click.native="createCode" :identifyCode="checkCode" :contentWidth="120" :contentHeight="40"></SIdentify>
 checkCode的为你需要展示的code值
 
+# 创建code的函数
 
 createCode () {
   let code = ''
@@ -15,4 +17,3 @@ createCode () {
   }
   this.checkCode = code
 }
-创建code的函数
